@@ -1,23 +1,3 @@
-Of course! Based on the medos.py file you provided, here are the requirements.txt file and a description for your README file.
-
-requirements.txt
-
-Create a file named requirements.txt and add the following content. This lists all the necessary Python packages to run your Streamlit application.
-
-Generated text
-streamlit
-pandas
-numpy
-pingouin
-plotly
-matplotlib
-seaborn
-
-README.md Description
-
-Here is a small description you can use for your README.md file. It explains the purpose and functionality of the application.
-
-Interactive Mediation Analysis Explained
 
 This is a comprehensive and interactive web application built with Streamlit to explain the concepts of mediation analysis in statistics. The application serves as an educational tool for students, researchers, and data scientists who want to understand the mechanisms by which one variable influences another.
 
